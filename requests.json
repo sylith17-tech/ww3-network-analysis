@@ -1,0 +1,3662 @@
+[
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?action=getGames&eID=api&key=ingameCon&hash=8689e1373836aaffdd30a03ddf2f4f29b659abbb&outputFormat=json&apiVersion=20141208&L=12&source=browser-desktop",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/scenarios/50532.jpg",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/scenarios/50533.jpg",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/scenarios/10201.jpg",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/scenarios/10213.jpg",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/scenarios/10214.jpg",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/scenarios/10215.jpg",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/scenarios/10218.jpg",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/scenarios/10219.jpg",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/scenarios/10222.jpg",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/scenarios/10223.jpg",
+    "resource_type": "image"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?action=getUserDetailsFirefly&eID=api&key=ingameCon&hash=c2dccfbb1ceae0958f6addcaecc3777f45ef6d76&outputFormat=json&apiVersion=20141208&L=12&source=browser-desktop",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?action=getGames&eID=api&key=ingameCon&hash=8689e1373836aaffdd30a03ddf2f4f29b659abbb&outputFormat=json&apiVersion=20141208&L=12&source=browser-desktop",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?action=getGames&eID=api&key=ingameCon&hash=357007dbb86737c1ffc7d92a2ddd8e519bb797c8&outputFormat=json&apiVersion=20141208&L=12&source=browser-desktop",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?action=getGames&eID=api&key=ingameCon&hash=357007dbb86737c1ffc7d92a2ddd8e519bb797c8&outputFormat=json&apiVersion=20141208&L=12&source=browser-desktop",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/backgrounds/play_fair_bg.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client-desktop/con-client-desktop_live/images/icons/play_fair_flag.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?action=joinGame&eID=api&key=ingameCon&hash=2fba00c673bdaae82c8b8c4b644f78aa1067eed8&outputFormat=json&apiVersion=20141208&L=12&source=browser-desktop",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/play.php?L=12&bust=1&gameID=10902625&source=browser-desktop",
+    "resource_type": "document"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/play.php?L=12&bust=1&uid=99939742&gameID=10902625&source=browser-desktop",
+    "resource_type": "document"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/fileadmin/js/SupAnalytics.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/index.html?&L=12&bust=1&uid=99939742&gameID=10902625&source=browser-desktop&spa=hup&id=328&gs=congs4.c.bytro.com&lang=ar&auth=06283c11d5bdcb9b6812ba70b9bf7f0f06f25dae&authHash=fb5e92692cd7c9dbc8fff15efbb38c28ac472b87&authTstamp=1789090022&gameURL=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1&logoutURL=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D-1%26source%3Dbrowser-desktop&mapID=5652_28&modID=2001&v=1789090022&titleID=2000&testLevel=0&chatServer=xgschat1.c.bytro.com&chatAuth=94ede1fea2a4b8e543ba11343214ffdb07e20b83&chatAuthTstamp=1789090022&uberAuthHash=5d43eb5d2a95c72f461d57ac1a70e9dbe41f02ba&uberAuthTstamp=1789090022&rights=chat&canSwitchClient=1&upscalingSettings=eyJsb3ciOnsiYXNzZXQiOiJsb3ciLCJzdGFtcHMiOjAuMSwibWFwIjowLjUsInBhcnRpY2xlcyI6ZmFsc2UsImFsbG9jYXRpb25zRmFjdG9yIjoxfX0%3D&attOpenDelayMs=60000&attPopupType=5&ws=www.conflictnations.com&ggsShopApiLevel=v2&userID=99939742&port=443&minBuildNumber=0&static=static.supremacy1914.com&mapJsonServer=static.supremacy1914.com&staticI18n=static.supremacy1914.com&tiles=static.supremacy1914.com",
+    "resource_type": "document"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/external/Modernizr/modernizr.js?bust=1787664805",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/external/soundjs/soundjs-0.5.2.min.js?bust=1787664805",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/external/jquery/jquery.js?bust=1787664805",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/external/jquery/jquery-ui.js?bust=1787664805",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/external/bytro/polyfills.js?bust=1787664805",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/external/bytro/mobilecheck.js?bust=1787664805",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/external/unleash/unleash.min.js?bust=1787664805",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/external/jquery/jquery.tinyscrollbar.min.js?bust=1787664805",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/external/jquery/debug/jquery.mb.YTPlayer.js?bust=1787664805",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/require.js?bust=1787664805",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/css/main-built.css?bust=1787664805",
+    "resource_type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/css/widgets-built.css?bust=1787664805",
+    "resource_type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/css/extras-built.css?bust=1787664805",
+    "resource_type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/css/tutorial-built.css?bust=1787664805",
+    "resource_type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/fileadmin/templates/conflictnations/shared-client/css/shared-main.css?bust=1787664805",
+    "resource_type": "stylesheet"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/splash/launcher_background_ww3.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/splash/launcher_chrome.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/splash/launcher_steam.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/fonts/Exo2-Regular.woff",
+    "resource_type": "font"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/js/main-built-min.js?bust=1787664806",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/splash/loading_drone.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TG4N82R",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/mapjson/live/5652_28.json?bust=1783075911151",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/i18n/conflictnations/ar.json?bust=1787664257",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/templates/imagefonts/unit_sizefont_8px.json?v=1",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/templates/imagefonts/unit_sizefont_8px.json?v=1",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/templates/imagefonts/unit_sizefont_8px.json?v=1",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://congs4.c.bytro.com/",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/unit_sizefont_8px.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/fileadmin/templates/conflictnations/favicon.png?7",
+    "resource_type": "other"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.google-analytics.com/analytics.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.redditstatic.com/ads/pixel.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.taboola.com/libtrc/unip/1050813/tfa.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://s.yimg.com/wi/ytc.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.ads-twitter.com/uwt.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://bat.bing.com/bat.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://js-tag.zemanta.com/zcpt.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=1&ae=g&auid=1039100524.1789086354&dt=%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20-%2010%2C902%2C625&en=page_view&dl=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop&dr=https%3A%2F%2Fwww.conflictnations.com%2Fclients%2Fcon-client-desktop%2Fcon-client-desktop_live%2Findex.html%3F%26L%3D12%26bust%3D1%26gameID%3D-1%26spa%3Dhup%26id%3D328%26gs%3D%26lang%3Dar%26auth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26authHash%3D128b3f9b38f785d5ae0b520806be536b222aaf10%26authTstamp%3D1789089325%26gameURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%26logoutURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%2526uid%253D99939742%2526gameID%253D-1%26mapID%3D%26v%3D1789089325%26titleID%3D2000%26testLevel%3D0%26chatServer%3Dxgschat1.c.bytro.com%26chatAuth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26chatAuthTstamp%3D1789089325%26uberAuthHash%3Dcdf12c679768e4d1b97d683daab2bd3e8fbe1c4b%26uberAuthTstamp%3D1789089325%26rights%3Dchat%26canSwitchClient%3D1%26upscalingSettings%3DeyJsb3ciOnsiYXNzZXQiOiJsb3ciLCJzdGFtcHMiOjAuMSwibWFwIjowLjUsInBhcnRpY2xlcyI6ZmFsc2UsImFsbG9jYXRpb25zRmFjdG9yIjoxfX0%253D%26attOpenDelayMs%3D60000%26attPopupType%3D5%26ws%3Dwww.conflictnations.com%26ggsShopApiLevel%3Dv2%26userID%3D99939742%26port%3D443%26minBuildNumber%3D0%26static%3Dstatic.supremacy1914.com%26mapJsonServer%3Dstatic.supremacy1914.com%26staticI18n%3Dstatic.supremacy1914.com%26tiles%3Dstatic.supremacy1914.com&scrsrc=www.googletagmanager.com&rnd=827094047.1789090025&navt=n&npa=1&ep.ads_data_redaction=0&gtm=45He6992v76167479za200zd76167479xea&gcd=13l3l3l2l1l1&dma_cps=a&dma=1&tag_exp=115938466~115938469~118012009~118897920~118897930~120385422~120469145~120469153~120847435&tft=1789090025299&tfd=4350&fmt=8",
+    "resource_type": "fetch"
+  },
+  {
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1039100524.1789086354&gtm=45He6992v76167479za200zd76167479xea&fmt=8",
+    "resource_type": "fetch"
+  },
+  {
+    "method": "GET",
+    "url": "https://amplify.outbrain.com/cp/obtp.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://trc.taboola.com/1050813/trc/3/json?tim=1789090025863&data=%7B%22id%22%3A546%2C%22ii%22%3A%22%2Fplay.php%22%2C%22it%22%3A%22video%22%2C%22sd%22%3Anull%2C%22ui%22%3Anull%2C%22vi%22%3A1789090025820%2C%22cv%22%3A%2220260906-8-RELEASE%22%2C%22uiv%22%3A%22default%22%2C%22u%22%3A%22https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop%22%2C%22e%22%3A%22https%3A%2F%2Fwww.conflictnations.com%2Fclients%2Fcon-client-desktop%2Fcon-client-desktop_live%2Findex.html%3F%26L%3D12%26bust%3D1%26gameID%3D-1%26spa%3Dhup%26id%3D328%26gs%3D%26lang%3Dar%26auth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26authHash%3D128b3f9b38f785d5ae0b520806be536b222aaf10%26authTstamp%3D1789089325%26gameURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%26logoutURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253F%22%2C%22cb%22%3A%22TFASC.trkCallback%22%2C%22qs%22%3A%22%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop%22%2C%22r%22%3A%5B%7B%22li%22%3A%22rbox-tracking%22%2C%22s%22%3A0%2C%22uim%22%3A%22rbox-tracking%3Apub%3Dbytrolabsgmbh%3Aabp%3D0%22%2C%22uip%22%3A%22rbox-tracking%22%2C%22orig_uip%22%3A%22rbox-tracking%22%7D%5D%2C%22mpvd%22%3A%7B%22en%22%3A%22page_view%22%2C%22tim%22%3A1789090025857%2C%22ref%22%3A%22https%3A%2F%2Fwww.conflictnations.com%2Fclients%2Fcon-client-desktop%2Fcon-client-desktop_live%2Findex.html%3F%26L%3D12%26bust%3D1%26gameID%3D-1%26spa%3Dhup%26id%3D328%26gs%3D%26lang%3Dar%26auth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26authHash%3D128b3f9b38f785d5ae0b520806be536b222aaf10%26authTstamp%3D1789089325%26gameURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%26logoutURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253F%22%2C%22item-url%22%3A%22https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop%22%2C%22tos%22%3A2934379%2C%22ssd%22%3A5%2C%22scd%22%3A21%2C%22it%22%3A%22JS_PIXEL%22%2C%22supv%22%3Atrue%7D%2C%22pa%22%3A%7B%22su%22%3Atrue%7D%2C%22psb%22%3Atrue%7D&pubit=i",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://bat.bing.com/p/action/5696434.js",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/1318796908140740?v=2.9.398&r=stable&domain=www.conflictnations.com&hme=457e068698591ac437afb4b2e5fbe0266b08712615b8792436a91385ebda0da3&ex_m=115%2C227%2C166%2C26%2C80%2C81%2C158%2C76%2C75%2C11%2C176%2C100%2C20%2C150%2C138%2C45%2C83%2C88%2C146%2C171%2C178%2C31%2C17%2C30%2C18%2C32%2C33%2C34%2C36%2C54%2C159%2C85%2C123%2C22%2C24%2C50%2C46%2C48%2C47%2C93%2C102%2C106%2C121%2C157%2C160%2C52%2C122%2C28%2C25%2C130%2C77%2C42%2C162%2C161%2C163%2C154%2C152%2C29%2C41%2C65%2C120%2C173%2C78%2C21%2C125%2C91%2C74%2C23%2C95%2C96%2C127%2C94%2C148%2C147%2C151%2C107%2C172%2C175%2C40%2C55%2C124%2C53%2C8%2C4%2C5%2C7%2C6%2C3%2C101%2C112%2C180%2C179%2C194%2C241%2C82%2C255%2C254%2C253%2C14%2C27%2C39%2C61%2C114%2C67%2C10%2C71%2C108%2C109%2C110%2C116%2C141%2C37%2C35%2C143%2C144%2C145%2C140%2C139%2C167%2C84%2C170%2C168%2C169%2C56%2C66%2C134%2C19%2C174%2C51%2C305%2C306%2C307%2C304%2C320%2C344%2C234%2C223%2C68%2C224%2C222%2C347%2C338%2C58%2C235%2C118%2C142%2C90%2C132%2C60%2C131%2C137%2C136%2C64%2C72%2C70%2C164%2C86%2C87%2C126%2C43%2C38%2C59%2C62%2C111%2C177%2C1%2C135%2C16%2C133%2C12%2C2%2C63%2C103%2C15%2C73%2C69%2C129%2C99%2C98%2C182%2C183%2C104%2C105%2C9%2C113%2C181%2C57%2C155%2C97%2C89%2C79%2C128%2C117%2C49%2C156%2C0%2C92%2C149%2C153%2C165%2C44%2C119%2C13%2C184",
+    "resource_type": "script"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1852604921&t=pageview&_s=1&dl=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop&ul=en-us&dt=%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20-%2010%2C902%2C625&sr=720x1422&vp=720x1249&_u=QACAAAABAAAAAC~&jid=682132404&gjid=1031863126&cid=34671930.1789086363&tid=UA-32637736-5&_gid=614730964.1789086363&_r=1&_slc=1&gtm=45He6992n81TG4N82Rv76167479za200zd76167479&gcd=13l3l3l2l1l1&dma_cps=a&dma=1&tag_exp=115938466~115938469~118012009~118897920~118897930~120385422~120469145~120469153~120847435&npa=1&z=2018592051",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://bat.bing.net/actionp/0?ti=5696434&Ver=2&mid=ac2127b5-0084-48e0-a1d3-da3c5c153d11&bo=1&evt=consent&src=enforced&cdb=AQAY&asc=D",
+    "resource_type": "ping"
+  },
+  {
+    "method": "GET",
+    "url": "https://bat.bing.net/action/0?ti=5696434&Ver=2&mid=ac2127b5-0084-48e0-a1d3-da3c5c153d11&bo=2&pi=918639831&lg=en-US&sw=720&sh=1422&sc=24&tl=%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20-%2010,902,625&p=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop&r=https%3A%2F%2Fwww.conflictnations.com%2Fclients%2Fcon-client-desktop%2Fcon-client-desktop_live%2Findex.html%3F%26L%3D12%26bust%3D1%26gameID%3D-1%26spa%3Dhup%26id%3D328%26gs%3D%26lang%3Dar%26auth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26authHash%3D128b3f9b38f785d5ae0b520806be536b222aaf10%26authTstamp%3D1789089325%26gameURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%26logoutURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%2526uid%253D99939742%2526gameID%253D-1%26mapID%3D%26v%3D1789089325%26titleID%3D2000%26testLevel%3D0%26chatServer%3Dxgschat1.c.bytro.com%26chatAuth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26chatAuthTstamp%3D1789089325%26uberAuthHash%3Dcdf12c679768e4d1b97d683daab2bd3e8fbe1c4b%26uberAuthTstamp%3D1789089325%26rights%3Dchat%26canSwitchClient%3D1%26upscalingSettings%3DeyJsb3ciOnsiYXNzZXQiOiJsb3ciLCJzdGFtcHMiOjAuMSwibWFwIjowLjUsInBhcnRpY2xlcyI6ZmFsc2UsImFsbG9jYXRpb25zRmFjdG9yIjoxfX0%253D%26attOpenDelayMs%3D60000%26attPopupType%3D5%26ws%3Dwww.conflictnations.com%26ggsShopApiLevel%3Dv2%26userID%3D99939742%26port%3D443%26minBuildNumber%3D0%26static%3Dstatic.supremacy1914.com%26mapJsonServer%3Dstatic.supremacy1914.com%26staticI18n%3Dstatic.supremacy1914.com%26tiles%3Dstatic.supremacy1914.com&lt=3297&mtp=20&evt=pageLoad&sv=2&asc=D&cdb=AQAY&rn=769955",
+    "resource_type": "image"
+  },
+  {
+    "method": "POST",
+    "url": "https://mpc2-prod-23-is5qnl632q-ue.a.run.app/events?cee=no",
+    "resource_type": "fetch"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.facebook.com/tr/",
+    "resource_type": "document"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-W72XF22X22&cx=c&_slc=1",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://s.yimg.com/wi/config/10018288.json",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://pixel-config.reddit.com/pixels/t2_kp9f2ljg/config",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://alb.reddit.com/rp.gif?ts=1789090027573&id=t2_kp9f2ljg&event=PageVisit&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=a80e5fb8-85a1-4c09-aec8-e8fb64efbdc3&aaid=&external_id=&idfa=&integration=gtm&partner=&partner_version=&opt_out=0&sh=1422&sw=720&v=rdt_c6181587&dpm=&dpcc=&dprc=&esurl=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php&drfr=https%3A%2F%2Fwww.conflictnations.com%2Fclients%2Fcon-client-desktop%2Fcon-client-desktop_live%2Findex.html&db=tsc-0.isc-0.pp-0.fetch-1.mo-1.iframe-0.ww-0.qsa-1.srv_cfg-0.src_pid-0",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26127%26720%261422%268%2624%26720%261422%2620%26na&eci=3&event=%7B%7D&event_id=df9fcae3-61c9-4088-a065-4a5514c2ad16&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d11de38c-74ad-49ca-b915-88ac2ec0f35c&pt=%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20-%2010%2C902%2C625&tw_document_href=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop&tw_document_referrer=https%3A%2F%2Fwww.conflictnations.com%2Fclients%2Fcon-client-desktop%2Fcon-client-desktop_live%2Findex.html%3F%26L%3D12%26bust%3D1%26gameID%3D-1%26spa%3Dhup%26id%3D328%26gs%3D%26lang%3Dar%26auth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26authHash%3D128b3f9b38f785d5ae0b520806be536b222aaf10%26authTstamp%3D1789089325%26gameURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%26logoutURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%2526uid%253D99939742%2526gameID%253D-1%26mapID%3D%26v%3D1789089325%26titleID%3D2000%26testLevel%3D0%26chatServer%3Dxgschat1.c.bytro.com%26chatAuth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26chatAuthTstamp%3D1789089325%26uberAuthHash%3Dcdf12c679768e4d1b97d683daab2bd3e8fbe1c4b%26uberAuthTstamp%3D1789089325%26rights%3Dchat%26canSwitchClient%3D1%26upscalingSettings%3DeyJsb3ciOnsiYXNzZXQiOiJsb3ciLCJzdGFtcHMiOjAuMSwibWFwIjowLjUsInBhcnRpY2xlcyI6ZmFsc2UsImFsbG9jYXRpb25zRmFjdG9yIjoxfX0%253D%26attOpenDelayMs%3D60000%26attPopupType%3D5%26ws%3Dwww.conflictnations.com%26ggsShopApiLevel%3Dv2%26userID%3D99939742%26port%3D443%26minBuildNumber%3D0%26static%3Dstatic.supremacy1914.com%26mapJsonServer%3Dstatic.supremacy1914.com%26staticI18n%3Dstatic.supremacy1914.com%26tiles%3Dstatic.supremacy1914.com&tw_iframe_status=0&tw_pid_src=2&tw_session_count=2&tw_session_id=1789089265198-210996928&twpid=tw.1789086362065.25027758305571454&txn_id=o1yb6&type=javascript&version=2.4.6",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26127%26720%261422%268%2624%26720%261422%2620%26na&eci=3&event=%7B%7D&event_id=df9fcae3-61c9-4088-a065-4a5514c2ad16&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d11de38c-74ad-49ca-b915-88ac2ec0f35c&pt=%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20-%2010%2C902%2C625&tw_document_href=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop&tw_document_referrer=https%3A%2F%2Fwww.conflictnations.com%2Fclients%2Fcon-client-desktop%2Fcon-client-desktop_live%2Findex.html%3F%26L%3D12%26bust%3D1%26gameID%3D-1%26spa%3Dhup%26id%3D328%26gs%3D%26lang%3Dar%26auth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26authHash%3D128b3f9b38f785d5ae0b520806be536b222aaf10%26authTstamp%3D1789089325%26gameURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%26logoutURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%2526uid%253D99939742%2526gameID%253D-1%26mapID%3D%26v%3D1789089325%26titleID%3D2000%26testLevel%3D0%26chatServer%3Dxgschat1.c.bytro.com%26chatAuth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26chatAuthTstamp%3D1789089325%26uberAuthHash%3Dcdf12c679768e4d1b97d683daab2bd3e8fbe1c4b%26uberAuthTstamp%3D1789089325%26rights%3Dchat%26canSwitchClient%3D1%26upscalingSettings%3DeyJsb3ciOnsiYXNzZXQiOiJsb3ciLCJzdGFtcHMiOjAuMSwibWFwIjowLjUsInBhcnRpY2xlcyI6ZmFsc2UsImFsbG9jYXRpb25zRmFjdG9yIjoxfX0%253D%26attOpenDelayMs%3D60000%26attPopupType%3D5%26ws%3Dwww.conflictnations.com%26ggsShopApiLevel%3Dv2%26userID%3D99939742%26port%3D443%26minBuildNumber%3D0%26static%3Dstatic.supremacy1914.com%26mapJsonServer%3Dstatic.supremacy1914.com%26staticI18n%3Dstatic.supremacy1914.com%26tiles%3Dstatic.supremacy1914.com&tw_iframe_status=0&tw_pid_src=2&tw_session_count=2&tw_session_id=1789089265198-210996928&twpid=tw.1789086362065.25027758305571454&txn_id=o1yb6&type=javascript&version=2.4.6",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Fri%2C%2011%20Sep%202026%2001%3A27%3A07%20GMT&n=0&b=%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20-%2010%2C902%2C625&.yp=10018288&f=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop&e=https%3A%2F%2Fwww.conflictnations.com%2Fclients%2Fcon-client-desktop%2Fcon-client-desktop_live%2Findex.html%3F%26L%3D12%26bust%3D1%26gameID%3D-1%26spa%3Dhup%26id%3D328%26gs%3D%26lang%3Dar%26auth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26authHash%3D128b3f9b38f785d5ae0b520806be536b222aaf10%26authTstamp%3D1789089325%26gameURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%26logoutURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%2526uid%253D99939742%2526gameID%253D-1%26mapID%3D%26v%3D1789089325%26titleID%3D2000%26testLevel%3D0%26chatServer%3Dxgschat1.c.bytro.com%26chatAuth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26chatAuthTstamp%3D1789089325%26uberAuthHash%3Dcdf12c679768e4d1b97d683daab2bd3e8fbe1c4b%26uberAuthTstamp%3D1789089325%26rights%3Dchat%26canSwitchClient%3D1%26upscalingSettings%3DeyJsb3ciOnsiYXNzZXQiOiJsb3ciLCJzdGFtcHMiOjAuMSwibWFwIjowLjUsInBhcnRpY2xlcyI6ZmFsc2UsImFsbG9jYXRpb25zRmFjdG9yIjoxfX0%253D%26attOpenDelayMs%3D60000%26attPopupType%3D5%26ws%3Dwww.conflictnations.com%26ggsShopApiLevel%3Dv2%26userID%3D99939742%26port%3D443%26minBuildNumber%3D0%26static%3Dstatic.supremacy1914.com%26mapJsonServer%3Dstatic.supremacy1914.com%26staticI18n%3Dstatic.supremacy1914.com%26tiles%3Dstatic.supremacy1914.com&enc=UTF-8&yv=1.17.1&tagmgr=gtm",
+    "resource_type": "image"
+  },
+  {
+    "method": "POST",
+    "url": "https://congs4.c.bytro.com/",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://region1.analytics.google.com/g/collect?v=2&tid=G-W72XF22X22&gtm=45je6992v9133678638za20g&_p=1789090024244&_gaz=1&gcd=13l3lPl2l3l1&npa=1&dma_cps=a&dma=1&_eu=EBAIACQC&are=1&cid=34671930.1789086363&frm=0&ibt=1&ir=1&ngs=1&pscdl=noapi&rcb=4&sr=720x1422&uaa=arm&uab=64&uafvl=Chromium%3B147.0.7727.101%7CNot.A%252FBrand%3B8.0.0.0&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153&dl=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop&dt=%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20-%2010%2C902%2C625&sid=1789089270&sct=2&seg=1&en=page_view&_ee=1&gap.uat=115938466~115938469~118012009~118897920~118897930~120385422~120469145~120469153~120847435&tfd=7410",
+    "resource_type": "fetch"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.google.ro/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-W72XF22X22&cid=34671930.1789086363&gtm=45je6992v9133678638za20g&rcb=4&aip=1&dma=1&dma_cps=a&gcd=13l3lPl2l3l1&npa=1&frm=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153&z=662893870",
+    "resource_type": "image"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?eID=api&key=ingameCon&action=getContentItems&hash=ebd24f4f22a60fa075cebdc07223c2a8f45b7e06&outputFormat=json&apiVersion=20141208",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/city_peace_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/city_ruins_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/city_war_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/contamination_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/province_peace_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/province_war_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/ocean_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/open_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/forest_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/jungle_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/desert_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/tundra_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/mountain_ambience_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ambiance/ingame_drone.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/hover_highlight.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/general_button_click.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/options_open.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/options_close.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/zoom_in.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/select_button.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/fullscreen_toggle.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/city_list_open.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/city_list_close.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/sort_button.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/tab_flip.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/chat_single_letter.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/chat_send_message.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/chat_open.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/chat_close.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/intel_list_open.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/intel_list_close.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/info_button.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/page_flip.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/premium_currency_buy.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/news_jingle.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/exit_close_button.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/diplo_screen_open.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/foldout_button.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/confirm_ok_enter.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/cancel.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/research_open.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/research_start.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/message_received.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/market_open.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/market_close.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/item_resource_buy.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/item_resource_sell.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/premium_currency_spend.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/set_rally_point.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/construction_start.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/production_unit.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/repair_building_button.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/spy_intel_sat.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/unit_hover.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/lock_target_button.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/ui/missile_crosshair_loop.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/buildings/airbase.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/buildings/armsindustries.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/buildings/armybase.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/buildings/headquarters.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/buildings/hospital.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/buildings/navalbase.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/buildings/recruitingoffice.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/buildings/secretlab.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/buildings/undergroundbunker.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/infantry_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/infantry_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/infantry_fighting.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/infantry_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/zombie_idle.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/zombie_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/zombie_attacking.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/armor_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/armor_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/armor_fighting_auto_cannon.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/armor_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/support_firing_aa.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/support_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/support_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/support_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/armor_fighting_main_gun.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/armor_fighting_machine_gun.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/support_firing_arty.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/support_firing_sam.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/support_firing_multi_rockets.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/fighter_aircraft_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/fighter_aircraft_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/fighter_aircraft_fighting_air_to_air.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/fighter_aircraft_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/fighter_aircraft_fighting_air_strike.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/heavy_aircraft_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/heavy_aircraft_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/heavy_aircraft_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/heavy_aircraft_awacs_asw_fighting.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/heavy_bomber_carpet_bombing.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/helicopter_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/helicopter_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/helicopter_fighting_gunship.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/helicopter_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/helicopter_fighting_attack_heavy.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/ship_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/ship_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/ship_fighting_main_guns.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/ship_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/sub_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/sub_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/sub_torp_attack.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/sub_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/sonar_ping.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/radar_woosh.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/launcher_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/launcher_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/missile_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/transport_truck.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/transport_ship.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/transport_airplane.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_infantry_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_infantry_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_infantry_fighting.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_infantry_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_airmobile_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_airmobile_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_airmobile_fighting.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_airmobile_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_tank_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_tank_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_tank_fighting.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_tank_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_helicopter_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_helicopter_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_helicopter_fighting.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_helicopter_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_airstrike_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_airstrike_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_airstrike_fighting.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_airstrike_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_naval_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_naval_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_naval_fighting.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_naval_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_submarine_activation.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_submarine_moving.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_submarine_fighting.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/officer_submarine_move_order.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/explosion_cruise_missile_conventional.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/explosion_cruise_missile_chemical.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/explosion_cruise_missile_nuke.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/explosion_ballistic_missile_conventional.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/explosion_ballistic_missile_chemical.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/explosion_ballistic_missile_nuke.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/explosion_icbm_nuke.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/explosion_impact_single.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/units/explosions_impact_multi.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene1_1.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene1_2.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene1_3.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene1_4.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene1_5.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene1_6.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_1.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_2.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_3.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_4.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_5.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_6.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_7.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_8.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_9.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_10.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_11.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_12.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_13.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_14.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_15.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_16.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/scene2_17.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/1.1.recapture_select_army.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/1.2.recapture_select_attack.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/1.3.recapture_select_enemy.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/2.1.increase_morale_select_province.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/2.2.increase_morale_button.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/3.1.start_reserach_open.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/3.2.start_reserach_tab.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/3.3.start_reserach_unit_new.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/3.4.start_reserach_final.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/4.1.speedup_reserach_open.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/4.2.speedup_reserach_button.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/5.1.build_open_upgrades.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/5.2.build_tab_upgrades.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/5.2.5.build_tab_upgrades_2.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/5.3.build_start_building.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/6.1.speedup_construction_open.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/6.2.speedup_construction_button.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/7.1.produce_select_city.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/7.2.produce_open_production.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/7.3.produce_select_tab.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/7.4.produce_start_production_new.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/sounds/tutorial/advisor/advisor-intro-1.ogg",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?eID=api&key=ingameCon&action=getUserDetailsFirefly&hash=25eb5355ee35911fd51d0373143f3dbb54c93f36&outputFormat=json&apiVersion=20141208",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26127%26720%261422%268%2624%26720%261422%2620%26na&eci=2&event_id=7b9048ab-0a03-4820-93a1-34c50c27afd7&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d11de38c-74ad-49ca-b915-88ac2ec0f35c&pt=%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20-%2010%2C902%2C625&tw_document_href=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop&tw_document_referrer=https%3A%2F%2Fwww.conflictnations.com%2Fclients%2Fcon-client-desktop%2Fcon-client-desktop_live%2Findex.html%3F%26L%3D12%26bust%3D1%26gameID%3D-1%26spa%3Dhup%26id%3D328%26gs%3D%26lang%3Dar%26auth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26authHash%3D128b3f9b38f785d5ae0b520806be536b222aaf10%26authTstamp%3D1789089325%26gameURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%26logoutURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%2526uid%253D99939742%2526gameID%253D-1%26mapID%3D%26v%3D1789089325%26titleID%3D2000%26testLevel%3D0%26chatServer%3Dxgschat1.c.bytro.com%26chatAuth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26chatAuthTstamp%3D1789089325%26uberAuthHash%3Dcdf12c679768e4d1b97d683daab2bd3e8fbe1c4b%26uberAuthTstamp%3D1789089325%26rights%3Dchat%26canSwitchClient%3D1%26upscalingSettings%3DeyJsb3ciOnsiYXNzZXQiOiJsb3ciLCJzdGFtcHMiOjAuMSwibWFwIjowLjUsInBhcnRpY2xlcyI6ZmFsc2UsImFsbG9jYXRpb25zRmFjdG9yIjoxfX0%253D%26attOpenDelayMs%3D60000%26attPopupType%3D5%26ws%3Dwww.conflictnations.com%26ggsShopApiLevel%3Dv2%26userID%3D99939742%26port%3D443%26minBuildNumber%3D0%26static%3Dstatic.supremacy1914.com%26mapJsonServer%3Dstatic.supremacy1914.com%26staticI18n%3Dstatic.supremacy1914.com%26tiles%3Dstatic.supremacy1914.com&tw_iframe_status=0&tw_pid_src=2&tw_session_count=2&tw_session_id=1789089265198-210996928&twpid=tw.1789086362065.25027758305571454&txn_id=o1yb6&type=javascript&version=2.4.6",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26127%26720%261422%268%2624%26720%261422%2620%26na&eci=2&event_id=7b9048ab-0a03-4820-93a1-34c50c27afd7&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d11de38c-74ad-49ca-b915-88ac2ec0f35c&pt=%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20-%2010%2C902%2C625&tw_document_href=https%3A%2F%2Fwww.conflictnations.com%2Fplay.php%3FL%3D12%26bust%3D1%26uid%3D99939742%26gameID%3D10902625%26source%3Dbrowser-desktop&tw_document_referrer=https%3A%2F%2Fwww.conflictnations.com%2Fclients%2Fcon-client-desktop%2Fcon-client-desktop_live%2Findex.html%3F%26L%3D12%26bust%3D1%26gameID%3D-1%26spa%3Dhup%26id%3D328%26gs%3D%26lang%3Dar%26auth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26authHash%3D128b3f9b38f785d5ae0b520806be536b222aaf10%26authTstamp%3D1789089325%26gameURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%26logoutURL%3Dhttps%253A%252F%252Fwww.conflictnations.com%252Fplay.php%253FL%253D12%2526bust%253D1%2526uid%253D99939742%2526gameID%253D-1%26mapID%3D%26v%3D1789089325%26titleID%3D2000%26testLevel%3D0%26chatServer%3Dxgschat1.c.bytro.com%26chatAuth%3De75096c3841de4abb748459d4bf6ea3a9dffaeab%26chatAuthTstamp%3D1789089325%26uberAuthHash%3Dcdf12c679768e4d1b97d683daab2bd3e8fbe1c4b%26uberAuthTstamp%3D1789089325%26rights%3Dchat%26canSwitchClient%3D1%26upscalingSettings%3DeyJsb3ciOnsiYXNzZXQiOiJsb3ciLCJzdGFtcHMiOjAuMSwibWFwIjowLjUsInBhcnRpY2xlcyI6ZmFsc2UsImFsbG9jYXRpb25zRmFjdG9yIjoxfX0%253D%26attOpenDelayMs%3D60000%26attPopupType%3D5%26ws%3Dwww.conflictnations.com%26ggsShopApiLevel%3Dv2%26userID%3D99939742%26port%3D443%26minBuildNumber%3D0%26static%3Dstatic.supremacy1914.com%26mapJsonServer%3Dstatic.supremacy1914.com%26staticI18n%3Dstatic.supremacy1914.com%26tiles%3Dstatic.supremacy1914.com&tw_iframe_status=0&tw_pid_src=2&tw_session_count=2&tw_session_id=1789089265198-210996928&twpid=tw.1789086362065.25027758305571454&txn_id=o1yb6&type=javascript&version=2.4.6",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/external/clevertap/clevertap.min.js?bust=1787664806",
+    "resource_type": "script"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/header_back.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/fonts/Exo2-SemiBold.woff",
+    "resource_type": "font"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/templates/imagefonts/unit_sizefont_8px.json?v=1",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/fonts/Exo2-Light.woff",
+    "resource_type": "font"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_sea.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/indicators/touch_attack.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/indicators/touch_move.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/indicators/touch_patrol.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/icon_siege.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/icon_retreat.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/icon_defense.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/icon_combat_boost.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/icon_attack.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/icon_patrol.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/pole.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/players/ai_player.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/players/real_player.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/players/inactive_player.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/aircraft_grounded.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_outpost_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_hospital_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_navalbase_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_outpost_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_hospital_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_armybase_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_armybase_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_armybase_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_armybase_4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_armybase_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_airbase_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_airbase_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_airbase_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_airbase_4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_airbase_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_navalbase_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_navalbase_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_navalbase_4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_navalbase_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_recruitingoffice_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_recruitingoffice_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_recruitingoffice_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_recruitingoffice_4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_recruitingoffice_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_armsindustries_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_armsindustries_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_armsindustries_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_armsindustries_4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_armsindustries_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_local_industry_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_local_industry_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_local_industry_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_wharf_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_hospital_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_hospital_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_hospital_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_hospital_4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_hospital_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_headquarters_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_outpost_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_hospital_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_fob_airstrip_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_hydro_generator_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_marine_research_facility_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_solar_farm_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_fusion_reactor_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_wind_farm_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_eden_project_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_seed_vault_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_oil_refinery_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_canal_gate_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_mining_facility_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_dome_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_dome_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_hive_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_chosen_base_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_mercenary_outpost_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_mercenary_outpost_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_mercenary_outpost_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_megaton_city_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_haven_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_vault_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_oceanography_station_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pos_oil_rig_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_evolvedhive_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_evolvedhive_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_evolvedhive_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_evolvedhive_4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_evolvedhive_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_hivemind_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_destroyed_haven_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_pharmaceutical_foundry_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_season_refinery_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_season_refinery_fuel_a_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_season_refinery_components_a_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_season_refinery_supplies_a_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_season_refinery_rare_materials_a_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_season_refinery_fuel_b_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_season_refinery_components_b_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_season_refinery_supplies_b_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/mapicon_season_refinery_rare_materials_b_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/cloud1_shadow.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/cityground_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_1_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/cityground_2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_2_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/cityground_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_3_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/cityground_4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_4_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/cityground_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_5_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_6.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/cityground_6.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_6_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_7.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/cityground_7.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_7_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_8.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/cityground_8.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_8_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_9.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/cityground_9.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_9_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_10.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/cityground_10.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/citystreets_10_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/suburban_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/suburban_ground_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/features/suburban_1_blurred.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/crater_a.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/crater_b.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/crater_c.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/crater_d.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/crater_nuclear.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/terrain_coastal.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/terrain_highsea.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/terrain_river.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/terrain_mountain.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/terrain_forest.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/terrain_hills.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/terrain_desert.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/terrain_tundra.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/terrain_jungle.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/icon_victorypoints.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/position_marker.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/contamination-low.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/contamination-medium.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/contamination-high.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/radar_scan.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/missile_scope.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/air_mobile_relocation.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/landmark_99.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/landmark_-2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/landmark_-1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/landmark_0.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/landmark_1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/landmark_3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/landmark_4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/landmark_6.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/mapicon_rallypoint.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/map_flame.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/province_eye2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/icons/icon_spies.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/map_bg_sea.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/map_bg.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/map/map_overlay.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_ethiopia.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_australia.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_afghanistan.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_germany.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_angola.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_ukraine.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_spain.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_israel.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_iran.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_italy.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_argentina.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_brazil.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_chile.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_algeria.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_sweden.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_china.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_iraq.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_philippines.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_cameroon.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_morocco.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_mexico.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_saudiarabia.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_unitedkingdom.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_mozambique.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_norway.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_austria.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_india.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_unitedstates.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_japan.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_greece.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_indonesia.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_pakistan.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_poland.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_bolivia.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_peru.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_belarus.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_thailand.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_turkey.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_chad.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_drcongo.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_southafrica.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_russia.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_romania.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_syria.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_serbia.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_france.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_venezuela.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_finland.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_vietnam.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_kazakhstan.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_canada.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_cuba.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_southkorea.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_northkorea.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_colombia.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_kenya.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_libya.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_mali.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_egypt.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_mongolia.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_myanmar.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_namibia.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_nigeria.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_newzealand.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://unleash.conflictnations.com/api/frontend/?sessionId=381950108&appName=conflictnations&environment=production&userId=99939742&properties%5Bclient%5D=con-client&properties%5BbetaUser%5D=0&properties%5Blang%5D=ar&properties%5Bsource%5D=browser-desktop&properties%5Badmin%5D=0&properties%5BregistrationTimestamp%5D=1762072663",
+    "resource_type": "fetch"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?eID=api&key=ingameCon&action=logStats&hash=a878587f6fd0795733887a1c861612c40d70b676&outputFormat=json&apiVersion=20141208",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/big_angola.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "POST",
+    "url": "https://congs4.c.bytro.com/",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://congs4.c.bytro.com/",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/sprites/icons-s3facfa35e1.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/sprites/gui-se0959303f1.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/sprites/sharedbuttons-s4c69842b2b.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/sprites/shared-gui-s302577ec26.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/fonts/Exo2-Bold.woff",
+    "resource_type": "font"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/deco2/resources_expand_frame.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/templates/sprites/UnitAnimation4.json?bust=1787664806",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/templates/sprites/unitSprites4.json?bust=1787664806",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/towed_howitzer_artillery_2_10.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/towed_howitzer_artillery_2_0.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/towed_howitzer_artillery_2_9.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/air_superiority_fighter_a_2_10.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/air_superiority_fighter_a_2_0.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/air_superiority_fighter_a_2_9.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/light_infantry_a_2_10.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/light_infantry_a_2_0.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/light_infantry_a_2_9.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/combat_recon_vehicle_a_2_10.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/combat_recon_vehicle_a_2_0.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/combat_recon_vehicle_a_2_9.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/635.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/696.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/757.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/818.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/879.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/940.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1001.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1062.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/636.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/697.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/758.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/819.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/880.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/941.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1002.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1063.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/637.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/698.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/759.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/820.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/881.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/942.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1003.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1064.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/638.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/699.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/760.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/821.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/882.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/943.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1004.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1065.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/639.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/700.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/761.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/822.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/883.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/944.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1005.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1066.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/640.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/701.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/762.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/823.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/884.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/945.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1006.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/1067.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/icons/terrain_10.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/icons/terrain_14.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/icons/terrain_15.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/icons/terrain_17.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/icons/terrain_12.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/icons/terrain_13.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/icons/terrain_21.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/small_angola.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/sprites/players-sa3aeee8510.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/sprites/deco2-s2a18b3de81.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/flags/countryFlagsByName/big_drcongo.png?bust=1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "POST",
+    "url": "https://congs4.c.bytro.com/",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap100.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap99.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap101.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap102.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap29.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap30.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap28.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap27.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap26.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap25.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap24.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap23.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap59.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap58.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap22.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap57.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap104.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap21.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap56.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap105.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap31.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap32.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap87.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap33.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap34.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap36.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap37.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap35.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap6.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap71.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap51.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap52.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap7.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap72.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap103.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap73.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap74.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap75.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap10.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap69.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap68.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap76.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap9.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap11.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap67.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap77.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap8.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap70.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap98.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap14.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap64.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap15.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap16.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap12.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap13.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap66.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap65.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap53.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap86.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap55.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap54.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap96.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap95.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap94.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap93.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap92.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap91.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap90.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap97.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap19.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap18.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap20.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap78.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap17.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap50.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap49.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap48.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap47.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap46.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap45.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap44.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap43.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap88.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap80.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap81.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap79.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap84.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap83.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap42.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap85.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap82.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap41.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap4.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap3.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap2.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap63.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap62.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap61.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap89.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap60.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap1.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap0.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap38.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap39.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/ani4/spriteMap40.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/set_1_b.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/set_3_b.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/stack.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/towed_howitzer_artillery_1_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/light_infantry_a_1_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/set_5_b.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/air_superiority_fighter_a_1_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/set_2_b.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/warfare/2/combat_recon_vehicle_a_1_5.png?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com/clients/con-client/con-client_live/images/sprites/shared-icons-sfc0e1cf756.png",
+    "resource_type": "image"
+  },
+  {
+    "method": "POST",
+    "url": "https://congs4.c.bytro.com/",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?eID=api&key=ingameCon&action=getUserDetailsFirefly&hash=25eb5355ee35911fd51d0373143f3dbb54c93f36&outputFormat=json&apiVersion=20141208",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://congs4.c.bytro.com/",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/641.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/702.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/763.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/824.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.supremacy1914.com/fileadmin/tiles/con/5652/2/885.jpg?1783413592459",
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.conflictnations.com//clients/con-client/con-client_live/images/cursors/cursor_lupe.cur?1787664806",
+    "resource_type": "image"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.conflictnations.com/index.php?eID=api&key=ingameCon&action=logStats&hash=671a09a247459f216ea33fbea2ebf7674dd847cd&outputFormat=json&apiVersion=20141208",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://congs4.c.bytro.com/",
+    "resource_type": "xhr"
+  },
+  {
+    "method": "POST",
+    "url": "https://congs4.c.bytro.com/",
+    "resource_type": "xhr"
+  }
+]
